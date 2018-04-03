@@ -5,7 +5,7 @@
     "main": "index.html",
     "repository": {
         "type": "git",
-        "url": "git+https://ginnymin@bitbucket.org/ginnymin/ginny-react.git"
+        "url": "git@github.com:ginnymin/masterdetail.git"
     },
     "scripts": {
         "dev": "webpack --mode development",
